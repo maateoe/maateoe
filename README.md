@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Secure Communication and Version Control Project](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Popular YouTube Videos</h2>
 
