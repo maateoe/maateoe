@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Secure Communication and Version Control Project](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Secure Communication and Version Control Project](https://github.com/maateoe/SSHKeyGitCommit)
 
 <h2>📺 Popular YouTube Videos</h2>
 
