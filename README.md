@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mateo! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Student studying Cybersecurity </a> | <a href="https://github.com/joshmadakor1">Programmer</a>
+<h1>Hi, I'm Mateo! <br/><a href="(https://www.linkedin.com/in/matesc/)"> Cybersecurity Student @ Florida International Univeristy </a> | <a href="(https://github.com/maateoe/)">Programmer</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
