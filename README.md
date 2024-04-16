@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Asymmestric Keys with Commits Project ](https://github.com/maateoe/AsymmetricKeyandGitCommit)
+- [Asymmetric Cryptography for Encryption and Integrity](https://github.com/maateoe/AsymmetricKeyandGitCommit)
 
-- [Hashed Password Cracking Project ](https://github.com/maateoe/JTRPasswordCracking)
+- [Hashed Password Cracking](https://github.com/maateoe/JTRPasswordCracking)
 
 <h2> 🤳 Connect with me on Linked-In:</h2>
 
