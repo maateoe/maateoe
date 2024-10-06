@@ -2,9 +2,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Asymmetric Cryptography for Encryption and Integrity](https://github.com/maateoe/AsymmetricKeyandGitCommit)
+- [Password Cracking Lab](https://github.com/maateoe/JTRPasswordCracking)
 
-- [Hashed Password Cracking](https://github.com/maateoe/JTRPasswordCracking)
+- [Active Directory Lab ](https://github.com/maateoe/active-directory-lab)
+
+- [Password Analyzer App](https://github.com/maateoe/password-analyzer-app)
+
+- [Asymmetric Cryptography for Encryption and Integrity](https://github.com/maateoe/uses-for-asymmetric-cryptography)
+
+  
 
 <h2> 🤳 Connect with me on Linked-In:</h2>
 
