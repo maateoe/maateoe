@@ -1,6 +1,6 @@
 <h1>Hello, I'm Mateo! <br/><a href="(https://www.linkedin.com/in/matesc/)"> Cybersecurity Student @ Florida International University </a> | <a href="(https://github.com/maateoe/)">
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity and IT Projects:</h2>
 
 - [Password Cracking Lab](https://github.com/maateoe/JTRPasswordCracking)
 
